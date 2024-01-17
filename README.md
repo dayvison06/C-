@@ -1,1 +1,3 @@
-# Projeto para calcular o consumo de gasolina, baseado nas horas gastas, velocidade média e km/l realizado pelo veículo.
+# Projeto para calcular o consumo de Gasolina ⛽.
+
+# Baseado nas horas gastas, velocidade média e km/l realizado pelo veículo.
